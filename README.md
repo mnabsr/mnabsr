@@ -19,9 +19,12 @@ A collection of my learning achievements and certifications.
 </a>
 
 </td>
-<img src="img/THM2.png" width="300">git a
-<img src="img/THM.png" width="300">
-
+<td align="center">
+<div style="display:flex; gap:10px; justify-content:center;">
+<img src="img/THM2.png" width="200">
+<img src="img/THM.png" width="200">
+</div>
+</td>
 <br>
 
 
