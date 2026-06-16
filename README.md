@@ -19,6 +19,12 @@ A collection of my learning achievements and certifications.
 </a>
 
 </td>
+<img src="img/THM2.png" width="300">
+
+<br>
+<img src="img/THM.png" width="300">
+
+<br>
 
 
 <td align="center" width="300">
