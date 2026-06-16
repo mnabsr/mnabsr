@@ -1,13 +1,4 @@
-<html>
-<body>
-
-<h1 align="center">🏆 My Certificates</h1>
-
-<p align="center">
-A collection of my learning achievements and certifications.
-</p>
-
-<br>
+<h2 align="center">🎓 Coursera Certificates</h2>
 
 <table align="center">
 
@@ -21,28 +12,10 @@ A collection of my learning achievements and certifications.
 📄 View SQL Certificate
 </a>
 
-<br><br>
-
-<div>
-<img src="img/THM2.png" width="200">
-<img src="img/THM.png" width="200">
-</div>
-
 </td>
 
 
-<td align="center" width="300">
-
-<h3>Cyber Security Certificate</h3>
-
-<a href="YOUR_PDF_LINK" target="_blank">
-📄 View Certificate
-</a>
-
-</td>
-
-
-<td align="center" width="300">
+<td align="center" width="400">
 
 <h3>C Programming Certificate</h3>
 
@@ -52,7 +25,6 @@ A collection of my learning achievements and certifications.
 
 </td>
 
-
 </tr>
 
 </table>
@@ -61,51 +33,43 @@ A collection of my learning achievements and certifications.
 <br><br>
 
 
-<h2 align="center">📜 Certificate List</h2>
+<h2 align="center">🛡️ TryHackMe Certificates</h2>
 
 
 <table align="center">
 
 <tr>
-<th>Certificate</th>
-<th>Provider</th>
-<th>Date</th>
-</tr>
 
-<tr>
-<td>SQL</td>
-<td>Coursera</td>
-<td>2023</td>
-</tr>
+<td align="center" width="400">
 
-<tr>
-<td>C Programming</td>
-<td>Coursera</td>
-<td>2026</td>
-</tr>
+<h3>TryHackMe Certificate 1</h3>
 
-<tr>
-<td>PHP</td>
-<td>Coursera</td>
-<td>2023</td>
-</tr>
-
-</table>
-
+<img src="img/THM2.png" width="200">
 
 <br>
 
-
-<h2 align="center">🔗 Connect With Me</h2>
-
-<p align="center">
-
-<a href="https://github.com/mnabsr">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+<a href="YOUR_TRYHACKME_LINK" target="_blank">
+📄 View Certificate
 </a>
 
-</p>
+</td>
 
 
-</body>
-</html>
+<td align="center" width="400">
+
+<h3>TryHackMe Certificate 2</h3>
+
+<img src="img/THM.png" width="200">
+
+<br>
+
+<a href="YOUR_TRYHACKME_LINK" target="_blank">
+📄 View Certificate
+</a>
+
+</td>
+
+
+</tr>
+
+</table>
