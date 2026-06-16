@@ -1,6 +1,7 @@
 <html>
-  <body>
-        <h1 align="center">🏆 My Certificates</h1>
+<body>
+
+<h1 align="center">🏆 My Certificates</h1>
 
 <p align="center">
 A collection of my learning achievements and certifications.
@@ -12,7 +13,7 @@ A collection of my learning achievements and certifications.
 
 <tr>
 
-<td align="center" width="300">
+<td align="center" width="400">
 
 <h3>SQL Certificate</h3>
 
@@ -20,14 +21,14 @@ A collection of my learning achievements and certifications.
 📄 View SQL Certificate
 </a>
 
-</td>
-<td align="center">
-<div style="display:flex; gap:10px; justify-content:center;">
+<br><br>
+
+<div>
 <img src="img/THM2.png" width="200">
 <img src="img/THM.png" width="200">
 </div>
+
 </td>
-<br>
 
 
 <td align="center" width="300">
@@ -51,6 +52,7 @@ A collection of my learning achievements and certifications.
 
 </td>
 
+
 </tr>
 
 </table>
@@ -60,6 +62,7 @@ A collection of my learning achievements and certifications.
 
 
 <h2 align="center">📜 Certificate List</h2>
+
 
 <table align="center">
 
@@ -102,5 +105,7 @@ A collection of my learning achievements and certifications.
 </a>
 
 </p>
+
+
 </body>
 </html>
