@@ -1,4 +1,6 @@
-<h1 align="center">🏆 My Certificates</h1>
+<html>
+  <body>
+        <h1 align="center">🏆 My Certificates</h1>
 
 <p align="center">
 A collection of my learning achievements and certifications.
@@ -100,3 +102,5 @@ A collection of my learning achievements and certifications.
 </a>
 
 </p>
+</body>
+</html>
