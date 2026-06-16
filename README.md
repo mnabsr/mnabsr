@@ -12,7 +12,7 @@
 <tr>
 <td align="center" width="300">
 
-<h3>HTML5 Certificate</h3>
+<h3>SQL Certificate</h3>
 
 <a href="https://drive.google.com/file/d/10N411zthdj_SNGjBN9eB2QtltNlb1XKb/view?usp=drive_link" target="_blank">
 📄SQL
@@ -87,9 +87,9 @@ View Certificate
 </tr>
 
 <tr>
-<td>HTML5 Fundamentals</td>
-<td>Udemy</td>
-<td>2026</td>
+<td>SQL</td>
+<td>Coursera.org</td>
+<td>2023</td>
 </tr>
 
 <tr>
@@ -99,9 +99,9 @@ View Certificate
 </tr>
 
 <tr>
-<td>JavaScript</td>
-<td>FreeCodeCamp</td>
-<td>2026</td>
+<td>PHP</td>
+<td>Coursera</td>
+<td>2023</td>
 </tr>
 
 </table>
@@ -114,8 +114,8 @@ View Certificate
 <pre>
 Certificates/
 │
-├── html5-certificate.png
-├── javascript-certificate.png
+├── SQL Certificate
+├── Cyber Security Certificate
 └── c-certificate.png
 </pre>
 
@@ -126,7 +126,7 @@ Certificates/
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/mnabsr">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
